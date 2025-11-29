@@ -5,34 +5,3 @@
     "github": "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
   }
 }
-└─$ cat .env              
-
-# Optional: Other services
-TELEGRAM_BOT_TOKEN=
-TELEGRAM_CHAT_ID=
-DISCORD_WEBHOOK=
-
-# Scanner Settings
-MAX_REPOS_PER_ORG=100
-SCAN_DEPTH=50
-REQUEST_DELAY=1
-
-# VirusTotal API Key (File scanning ke liye)
-VIRUSTOTAL_API_KEY=e17322070aef6d4986cced259ed0ed48272693bb3734cd2f0f56ad6c8199a60c
-
-#shodan_api_key
-SHODAN_API_KEY=bOgCf4D1XS2yql8BKFAZxafsWIln7XaK
-
-#censys_api_key
-CENSYS_API_KEY=censys_7Xg4ua46_Pbxe1ruiHpf1J81ke6w8yBqz
-
-# .env mein add karein  
-HYBRID_ANALYSIS_API_KEY=r1jc83x8ef2409d8yw0eebbladfd8425u6un83hue572b756kltvaw411fff5e1a
-
-# .env mein add karein
-ABUSEIPDB_API_KEY=52a8cef83b92e2df7776ac25eda5234ee9b2b5d6d137d62288f5d4d4c5fed2380b009ae08da4edb3
-
-# .env mein add karein
-IPQUALITYSCORE_API_KEY=UK8Jq3gTiTE7J8gaPpA9eYv8DY8EGNRm
-                                                                                                                                                    
-┌──(iscan-env)─(kali㉿kali)-[~/iscan-tool]
