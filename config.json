@@ -1,0 +1,7 @@
+{
+  "api_keys": {
+    "stripe": "sk_test_51EXAMPLE",
+    "slack": "xoxb-12345678901-1234567890123-abc123def456",
+    "github": "ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+  }
+}
